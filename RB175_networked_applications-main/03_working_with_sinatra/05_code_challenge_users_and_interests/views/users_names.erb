@@ -1,0 +1,9 @@
+<body>
+<ul>
+  <% @contents_arr.each do |profile|%>
+    <h3> 
+      <a href="/data/profiles/<%=profile[0]%>.yaml"><%= profile[0] %></a>
+    </h3>
+  <% end %> 
+</ul>
+</body>

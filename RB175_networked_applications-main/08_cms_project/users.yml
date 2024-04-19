@@ -1,0 +1,6 @@
+{
+  developer: "$2a$12$4VynYM6j3iBSLtFkbu0D5.OsL.QDrgXciRfJnVdISMqqbt.4wAs/e",  #"letmein"
+  admin: "$2a$12$E9AehnhstZnSq493RKwJ1Obuiko9nENBbQ4JvFSNsX7jQ8BjJ28fu", #secret,
+  bill: "$2a$12$GXiqxI1/jjaBzuGZMMUqEe8qy81D242bEsYPWSJ/unjIV4a2oc4kK", #"apple",
+  sonia: "$2a$12$9jINm5cVrSzYEP7urtuzuex1wTt8obn6V8cuhbAuhD3DKC2csDnIi" #"pear"
+}
